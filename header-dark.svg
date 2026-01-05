@@ -1,0 +1,58 @@
+<svg
+  width="800"
+  height="180"
+  viewBox="0 0 800 180"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="800" height="180" fill="#0d1117"/>
+
+  <!-- Card -->
+  <rect
+    x="120"
+    y="40"
+    width="560"
+    height="100"
+    rx="6"
+    ry="6"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="1"
+  />
+
+  <!-- Headline -->
+  <text
+    x="150"
+    y="75"
+    fill="#adbac7"
+    font-size="22"
+    font-weight="600"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+  >
+    Hey, I'm Atharva.
+  </text>
+
+  <!-- Subtext line 1 -->
+  <text
+    x="150"
+    y="105"
+    fill="#adbac7"
+    fill-opacity="0.82"
+    font-size="16"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+  >
+    A Computer Engineering Student
+  </text>
+
+  <!-- Subtext line 2 -->
+  <text
+    x="150"
+    y="128"
+    fill="#adbac7"
+    fill-opacity="0.82"
+    font-size="16"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+  >
+    with Honours in AI/ML.
+  </text>
+</svg>
