@@ -49,7 +49,7 @@ My name is **Atharva Shimpi**. I’m an undergraduate B.E. student pursuing Comp
 ===================== -->
 
 <details>
-  <summary><b>Status</b></summary>
+  <summary><b>Click Me!</b></summary>
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
