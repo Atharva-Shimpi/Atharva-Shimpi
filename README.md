@@ -51,15 +51,32 @@ My name is **Atharva Shimpi**. I’m an undergraduate B.E. student pursuing Comp
 <details>
   <summary><b>Status</b></summary>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67acd5d9f863343482d3e97c?variant=dark" alt="roadmap.sh"
-          />
-        </a>
-        <br />
-        <sub>Roadmap status</sub>
-      </td>
-      
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Roadmap card (auto-width cell) -->
+    <td align="center" valign="middle" style="padding-right:16px;">
+      <a href="https://roadmap.sh">
+        <img
+          src="https://roadmap.sh/card/tall/67acd5d9f863343482d3e97c?variant=light"
+          height="260"
+          alt="Roadmap status"
+        />
+      </a>
+      <br />
+      <sub>Roadmap status</sub>
+    </td>
+
+  <!-- Chess SVG (fills remaining space) -->
+  <td valign="middle" align="center">
+      <img
+        src="https://raw.githubusercontent.com/Atharva-Shimpi/Chess.com_rating_chart/refs/heads/feature/svg-multichart/assets/svg/rating-rapid.svg"
+        height="260"
+        alt="Rapid chess rating"
+      />
+      <br />
+      <sub>Rapid chess rating</sub>
+    </td>
+  </tr>
+</table>
 
 </details>
