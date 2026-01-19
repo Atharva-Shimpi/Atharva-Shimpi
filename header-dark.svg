@@ -8,7 +8,7 @@
 
   <!-- Title -->
   <text
-    x="4"
+    x="0"
     y="52"
     fill="#e6edf3"
     font-size="48"
@@ -21,7 +21,7 @@
 
   <!-- Subtitle -->
   <text
-    x="4"
+    x="0"
     y="96"
     fill="#9aa4af"
     font-size="21"
