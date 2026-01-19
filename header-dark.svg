@@ -1,20 +1,19 @@
 <svg
   width="100%"
-  height="100"
-  viewBox="0 0 600 100"
-  fill="none"
+  height="132"
+  viewBox="0 0 600 132"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <!-- Background -->
-  <rect width="1200" height="180" fill="#0d1117"/>
+  <rect width="600" height="132" fill="#0d1117"/>
 
-  <!-- Title 64-->
+  <!-- Title -->
   <text
-    x="0"
-    y="50"
-    fill="#c9d1d9"
-    font-size="44"
+    x="4"
+    y="52"
+    fill="#e6edf3"
+    font-size="48"
     font-weight="600"
+    letter-spacing="-0.7"
     font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
   >
     Hey, I’m Atharva.
@@ -22,11 +21,12 @@
 
   <!-- Subtitle -->
   <text
-    x="0"
-    y="88"
-    fill="#8b949e"
-    font-size="22"
+    x="4"
+    y="96"
+    fill="#9aa4af"
+    font-size="21"
     font-weight="400"
+    letter-spacing="0.25"
     font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
   >
     Pursuing Computer Engineering with Honours in AI/ML.
