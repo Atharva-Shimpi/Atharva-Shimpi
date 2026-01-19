@@ -1,51 +1,33 @@
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-  <!-- LEFT IMAGE -->
-  <tr>
-    <td valign="right" width="260">
-      <img src="Poster.jpg" width="260">
-  </td>
-    <!-- RIGHT CONTENT -->
-    <td valign="top">
-      <img src="https://via.placeholder.com/1x120/00000000.png" width="1" height="120" alt="">
-      <!-- Header SVG -->
-      <img
-        src="https://raw.githubusercontent.com/Atharva-Shimpi/Atharva-Shimpi/refs/heads/main/header-dark.svg"
-        width="500"
-        align="left"
-        style="margin-top:-12px"
-        alt="header"
-      />
-      <br>
-      <!-- Stack -->
-      <samp>
-        Languages:<br>
-        C++ / Python / Java<br><br>
-        Packages & Frameworks:<br>
-        NumPy / Pandas / TensorFlow / PyTorch / Keras / Matplotlib / Scikit-Learn / ComfyUI<br><br>
-        Databases:<br>
-        MySQL / MongoDB / Qdrant<br><br>
-        Tools:<br>
-        Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor
-      </samp>
-    </td>
-  </tr>
-</table>
+<img src="Poster.jpg" width="300" align="left">
 
+_Hey, I’m Atharva_
 
+_Pursuing Computer Engineering with Honours in AI/ML_
 
-<p align="left">
-  <samp>
-    <!-- Professional -->
-    <a href="https://www.linkedin.com/in/atharva2005/">linkedin</a> •
-    <a href="https://roadmap.sh/u/atharvashimpi">roadmap.sh</a> •
-    <!-- Coding / Competitions -->
-    <a href="https://leetcode.com/u/atharva_shimpi">leetcode</a> •
-    <a href="https://www.kaggle.com/atharvashimpi2005">kaggle</a> •
-    <!-- Writing / Reading -->
-    <a href="mailto:atharvashimpi2005@gmail.com">Gmail</a> •
-    <a href="https://docs.google.com/document/d/1gst4lDevWb08cUe87Kdl2HQs3okSlqdkC-Jr88rthGA/edit?usp=sharing">resume</a>
-  </samp>
-</p>
+---
+
+<samp>
+
+Languages:<br>
+C++ / Python / Java<br><br>
+
+Packages & Frameworks:<br>
+NumPy / Pandas / TensorFlow / PyTorch / Keras / Matplotlib / Scikit-Learn / ComfyUI<br><br>
+
+Databases:<br>
+MySQL / MongoDB / Qdrant<br><br>
+
+Tools:<br>
+Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor<br><br>
+
+<a href="https://www.linkedin.com/in/atharva2005/">linkedin</a> •
+<a href="https://roadmap.sh/u/atharvashimpi">roadmap.sh</a> •
+<a href="https://leetcode.com/u/atharva_shimpi">leetcode</a> •
+<a href="https://www.kaggle.com/atharvashimpi2005">kaggle</a> •
+<a href="mailto:atharvashimpi2005@gmail.com">Gmail</a> •
+<a href="https://docs.google.com/document/d/1gst4lDevWb08cUe87Kdl2HQs3okSlqdkC-Jr88rthGA/edit">resume</a>
+
+</samp>
 
 <!-- =====================
      STATUS SECTION 
@@ -83,3 +65,12 @@
 </table>
 
 </details>
+
+
+
+
+
+
+
+
+
