@@ -18,7 +18,11 @@ Databases:<br>
 MySQL / MongoDB / Qdrant<br><br>
 
 Tools:<br>
-Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor<br><br>
+Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor<br>
+
+</samp>
+
+---
 
 <a href="https://www.linkedin.com/in/atharva2005/">linkedin</a> •
 <a href="https://roadmap.sh/u/atharvashimpi">roadmap.sh</a> •
@@ -27,8 +31,8 @@ Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor<br><br>
 <a href="mailto:atharvashimpi2005@gmail.com">Gmail</a> •
 <a href="https://docs.google.com/document/d/1gst4lDevWb08cUe87Kdl2HQs3okSlqdkC-Jr88rthGA/edit">resume</a>
 
-</samp>
-<br>
+
+
 <!-- =====================
      STATUS SECTION 
 ===================== -->
