@@ -28,7 +28,7 @@ Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor<br><br>
 <a href="https://docs.google.com/document/d/1gst4lDevWb08cUe87Kdl2HQs3okSlqdkC-Jr88rthGA/edit">resume</a>
 
 </samp>
-
+<br>
 <!-- =====================
      STATUS SECTION 
 ===================== -->
