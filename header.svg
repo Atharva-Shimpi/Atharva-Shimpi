@@ -1,0 +1,132 @@
+<svg
+  width="100%"
+  height="420"
+  viewBox="0 0 900 420"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="900" height="420" fill="#0d1117"/>
+
+  <!-- HEADER -->
+  <text
+    x="0"
+    y="64"
+    fill="#e6edf3"
+    font-size="48"
+    font-weight="600"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+  >
+    Hey, I’m Atharva.
+  </text>
+
+  <!-- SUBTITLE -->
+  <text
+    x="0"
+    y="108"
+    fill="#8b949e"
+    font-size="22"
+    font-weight="400"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+  >
+    Pursuing Computer Engineering with Honours in AI/ML.
+  </text>
+
+  <!-- SEPARATOR -->
+  <line
+    x1="0"
+    y1="132"
+    x2="520"
+    y2="132"
+    stroke="#30363d"
+    stroke-width="1"
+  />
+
+  <!-- CONTENT BLOCK -->
+  <!-- Languages -->
+  <text
+    x="0"
+    y="176"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="600"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+  >
+    Languages:
+  </text>
+  <text
+    x="0"
+    y="204"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="400"
+    font-family="JetBrains Mono, SFMono-Regular, Menlo, monospace"
+  >
+    C++ / Python / Java
+  </text>
+
+  <!-- Packages -->
+  <text
+    x="0"
+    y="252"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="600"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+  >
+    Packages &amp; Frameworks:
+  </text>
+  <text
+    x="0"
+    y="280"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="400"
+    font-family="JetBrains Mono, SFMono-Regular, Menlo, monospace"
+  >
+    NumPy / Pandas / TensorFlow / PyTorch / Keras / Matplotlib / Scikit-Learn / ComfyUI
+  </text>
+
+  <!-- Databases -->
+  <text
+    x="0"
+    y="328"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="600"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+  >
+    Databases:
+  </text>
+  <text
+    x="0"
+    y="356"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="400"
+    font-family="JetBrains Mono, SFMono-Regular, Menlo, monospace"
+  >
+    MySQL / MongoDB / Qdrant
+  </text>
+
+  <!-- Tools -->
+  <text
+    x="0"
+    y="404"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="600"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+  >
+    Tools:
+  </text>
+  <text
+    x="0"
+    y="432"
+    fill="#c9d1d9"
+    font-size="18"
+    font-weight="400"
+    font-family="JetBrains Mono, SFMono-Regular, Menlo, monospace"
+  >
+    Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor
+  </text>
+</svg>
