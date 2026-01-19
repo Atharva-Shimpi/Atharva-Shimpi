@@ -1,36 +1,39 @@
-# 🦊👜 Oi, World!
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <!-- LEFT IMAGE -->
+  <tr>
+    <td valign="right" width="260">
+      <img src="Poster.jpg" width="260">
+  </td>
+    <!-- RIGHT CONTENT -->
+    <td valign="top">
+      <img src="https://via.placeholder.com/1x120/00000000.png" width="1" height="120" alt="">
+      <!-- Header SVG -->
+      <img
+        src="https://raw.githubusercontent.com/Atharva-Shimpi/Atharva-Shimpi/refs/heads/main/header-dark.svg"
+        width="500"
+        align="left"
+        style="margin-top:-12px"
+        alt="header"
+      />
+      <br>
+      <!-- Stack -->
+      <samp>
+        Languages:<br>
+        C++ / Python / Java<br><br>
+        Packages & Frameworks:<br>
+        NumPy / Pandas / TensorFlow / PyTorch / Keras / Matplotlib / Scikit-Learn / ComfyUI<br><br>
+        Databases:<br>
+        MySQL / MongoDB / Qdrant<br><br>
+        Tools:<br>
+        Kaggle / Anaconda Navigator / Jupyter Notebook / VSCode / Cursor
+      </samp>
+    </td>
+  </tr>
+</table>
 
-My name is **Atharva Shimpi**. I’m an undergraduate B.E. student pursuing Computer Engineering with Honours in AI/ML, at an affiliated institution of **Dr. D.Y. Patil Institute Of Technology, Pune**.
 
-----------------------------------------------------------------------------------------------------------------------------------
 
-## 🍎🐛 More About Me
-
-- **Languages**:pencil2:
-  -->  [C++](https://github.com/Atharva-Shimpi?tab=repositories&type=&language=c%2B%2B&sort=) /
-  [Python](https://github.com/Atharva-Shimpi?tab=repositories&type=&language=Python&sort=) /
-  [Java](https://github.com/Atharva-Shimpi?tab=repositories&type=&language=Java&sort=)
-  
-- **Packages and Frameworks**:package:
-  --> [NumPy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/) / [TensorFlow](https://www.tensorflow.org/) / [PyTorch](https://pytorch.org/) / [Keras](https://keras.io/) / [Matplotlib](https://matplotlib.org/) / [Scikit-Learn](https://scikit-learn.org/stable/) / [ComfyUI](https://www.comfy.org/)
-  
-- **Databases**:card_file_box:
-  --> [MySQL](https://www.mysql.com/) / [MongoDB](https://www.mongodb.com/) / [Qdrant](https://qdrant.tech/)
-
-- **Tools**:wrench:
-  --> [Kaggle](https://www.kaggle.com/) / [Anaconda Navigator](https://www.anaconda.com/products/navigator) / [Jupiter Notebook](https://jupyter.org/) / [VsCode](https://code.visualstudio.com/) / [Cursor](https://cursor.com/)
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-## 🌱🪴 Currently Exploring:
-
-- Software Roles --> [AI Engineer](https://roadmap.sh/ai-engineer) / [Data Science Engineer](https://roadmap.sh/ai-data-scientist) !!
-
-- Systems Engineering --> [MLOps](https://roadmap.sh/mlops) / [System Design and Architecture](https://roadmap.sh/software-design-architecture)
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-<p align="center">
+<p align="left">
   <samp>
     <!-- Professional -->
     <a href="https://www.linkedin.com/in/atharva2005/">linkedin</a> •
